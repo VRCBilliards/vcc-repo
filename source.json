@@ -14,7 +14,8 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "VRCBilliards/vrcbce",
-        "VRCBilliards/vrcbce2"
+        "VRCBilliards/vrcbce2",
+        "CyanLaser/CyanPlayerObjectPool"
     ],
     "packages":[]
 }
