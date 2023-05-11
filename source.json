@@ -15,7 +15,8 @@
     "githubRepos":[
         "VRCBilliards/vrcbce",
         "VRCBilliards/vrcbce2",
-        "CyanLaser/CyanPlayerObjectPool"
+        "CyanLaser/CyanPlayerObjectPool",
+        "MMMaellon/SmartObjectSync"
     ],
     "packages":[]
 }
