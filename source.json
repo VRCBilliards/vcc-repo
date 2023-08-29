@@ -14,9 +14,7 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "VRCBilliards/vrcbce",
-        "VRCBilliards/vrcbce2",
-        "CyanLaser/CyanPlayerObjectPool",
-        "MMMaellon/SmartObjectSync"
+        "VRCBilliards/vrcbce2"
     ],
     "packages":[]
 }
